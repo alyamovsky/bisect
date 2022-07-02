@@ -1,0 +1,16 @@
+###> IDE ###
+/.idea/
+###< IDE ###
+
+###> Composer ###
+/vendor/
+composer.lock
+###< Composer ###
+
+###> PHP CS-Fixer ###
+.php-cs-fixer.cache
+###< PHP CS-Fixer ###
+
+###> PHPUnit ###
+.phpunit.result.cache
+###< PHPUnit ###
