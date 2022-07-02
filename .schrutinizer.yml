@@ -17,7 +17,7 @@ build:
               format: 'clover'
       environment:
         php:
-          version: '8.0'
+          version: 8.0
     tests: true
 filter:
   excluded_paths:
