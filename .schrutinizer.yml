@@ -16,8 +16,8 @@ build:
               file: 'phpunit.xml'
               format: 'clover'
       environment:
-        node:
-          version: 6.0.0
+        php:
+          version: '8.0'
     tests: true
 filter:
   excluded_paths:
