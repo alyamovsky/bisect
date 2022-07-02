@@ -1,6 +1,6 @@
 {
     "name": "ddlzz/bisect",
-    "description": "A library that solves problems similar to the python bisect module",
+    "description": "A tiny library that implements the functionality of the Python bisect module",
     "type": "library",
     "license": "MIT",
     "autoload": {
