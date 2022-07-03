@@ -17,8 +17,6 @@ build:
               format: 'clover'
       environment:
         php: 8.1.2
-    image:
-      - default-bionic
     tests: true
 filter:
   excluded_paths:
