@@ -15,8 +15,6 @@ build:
             coverage:
               file: 'phpunit.xml'
               format: 'clover'
-      environment:
-        php: 8.1.2
     tests: true
 filter:
   excluded_paths:
