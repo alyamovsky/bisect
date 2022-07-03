@@ -16,8 +16,8 @@ build:
               file: 'phpunit.xml'
               format: 'clover'
       environment:
-        php:
-          version: 8.0
+        php: 8.1.2
+    image: default-bionic
     tests: true
 filter:
   excluded_paths:
