@@ -15,7 +15,6 @@ build:
             coverage:
               file: 'phpunit.xml'
               format: 'clover'
-    tests: true
 filter:
   excluded_paths:
     - 'tests/*'
