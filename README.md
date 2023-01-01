@@ -1,8 +1,8 @@
-# Bisect
+# Bisect in PHP
 
 [![Code Coverage](https://scrutinizer-ci.com/g/ddlzz/bisect/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/ddlzz/bisect/?branch=main) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ddlzz/bisect/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/ddlzz/bisect/?branch=main) [![Packagist](https://img.shields.io/packagist/v/ddlzz/bisect.svg)](https://packagist.org/packages/ddlzz/bisect)
 
-A tiny library that implements the functionality of the Python bisect module.
+A tiny library that implements the functionality of the Python bisect module in PHP language.
 
 ## Quick start
 ```
